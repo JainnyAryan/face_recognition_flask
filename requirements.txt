@@ -1,0 +1,5 @@
+face_recognition==1.3.0
+Flask==2.2.5
+Flask_SocketIO==5.3.6
+numpy==2.0.1
+Pillow==10.4.0
